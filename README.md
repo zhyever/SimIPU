@@ -10,6 +10,17 @@
 - Since the code is still waiting for release, if you have any question with reproduction, feel free to contact us. We will try our best to help you.
 - You can find codes of MonoDepth [here](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/SimIPU). We provide detailed configs and results, even in an indoor environment depth dataset, which demonstrates the generalization of SimIPU. Since we enhance the depth framework, model performances are stronger than the ones presented in our paper.
 
+# Pre-trained Model
+
+<center>
+
+||Dataset|Model|
+|:-:| :----: | :----:|
+|SimIPU|KITTI|[link](https://github.com/zhyever/SimIPU/releases/download/initial-release/SimIPU_kitti_50e.pth)|
+|SimIPU|Waymo|[link](https://github.com/zhyever/SimIPU/releases/download/initial-release/SimIPU_waymo.pth)|
+
+</center>
+
 ## Citation
 If you find our work useful for your research, please consider citing the paper
 ```
