@@ -8,7 +8,7 @@
 
 ## Notice
 - Redundancy version of SimIPU. Main codes are in SimIPU/project_cl.
-- You can find codes of MonoDepth [here](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/SimIPU). We provide detailed configs and results, even in an indoor environment depth dataset, which demonstrates the generalization of SimIPU. Since we enhance the depth framework, model performances are stronger than the ones presented in our paper.
+- You can find codes of MonoDepth [here](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/simipu). We provide detailed configs and results, even in an indoor environment depth dataset, which demonstrates the generalization of SimIPU. Since we enhance the depth framework, model performances are stronger than the ones presented in our paper.
 
 ## Usage
 
