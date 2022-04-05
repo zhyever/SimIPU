@@ -146,7 +146,7 @@ If you find our work useful for your research, please consider citing the paper
 ```
 @article{li2021simipu,
   title={SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations},
-  author={Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, Qinhong Jiang, Xianming Liu, Junjun Jiang, Bolei Zhou, Hang Zhao},
+  author={Li, Zhenyu and Chen, Zehui and Li, Ang and Fang, Liangji and Jiang, Qinhong and Liu, Xianming and Jiang, Junjun and Zhou, Bolei and Zhao, Hang},
   journal={arXiv preprint arXiv:2112.04680},
   year={2021}
 }
